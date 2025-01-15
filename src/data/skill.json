@@ -1,0 +1,672 @@
+{
+  "col1": {
+    "row1": {
+      "Knight": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      }
+    },
+    "row2": {
+      "Knight": {
+        "data": {
+          "id": "TapDmg",
+          "en": "Knight's Valor",
+          "zh": "騎士勇氣"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "PetDmg",
+          "en": "Pet Evolution",
+          "zh": "寵物進化"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "AllHelperDmg",
+          "en": "Master Commander",
+          "zh": "指揮官大師"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "CloneDmg",
+          "en": "Phantom Vengeance",
+          "zh": "幻影復仇"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "OfflineGold",
+          "en": "Master Thief",
+          "zh": "竊盜大師"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "Transmutation",
+          "en": "Transmutation",
+          "zh": "嬗變"
+        }
+      }
+    },
+    "row3": {
+      "Knight": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      }
+    }
+  },
+  "col2": {
+    "row1": {
+      "Knight": {
+        "data": {
+          "id": "TapDmgFromHelpers",
+          "en": "Chivalric Order",
+          "zh": "騎士兵團"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "FireTapSkillBoost",
+          "en": "Summon Inferno",
+          "zh": "召喚煉獄"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "HelperBoost",
+          "en": "Tactical Insight",
+          "zh": "洞察戰術"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "MPCapacityBoost",
+          "en": "Limit Break",
+          "zh": "界限突破"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "CritSkillBoostDmg",
+          "en": "Assassinate",
+          "zh": "暗殺"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "GoldGun",
+          "en": "Gold Gun",
+          "zh": "金槍"
+        }
+      }
+    },
+    "row2": {
+      "Knight": {
+        "data": {
+          "id": "BurstSkillBoost",
+          "en": "Angelic Radiance",
+          "zh": "天使光輝"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "PetGoldQTE",
+          "en": "Heart of Gold",
+          "zh": "金子般的心"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "HelperDmgSkillBoost",
+          "en": "Heroic Might",
+          "zh": "英雄神力"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "CloneSkillBoost",
+          "en": "Eternal Darkness",
+          "zh": "永恆黑暗"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "UltraDagger",
+          "en": "Summon Dagger",
+          "zh": "召喚匕首"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "ChestGold",
+          "en": "Chesterson Incense",
+          "zh": "Chercerson香火"
+        }
+      }
+    },
+    "row3": {
+      "Knight": {
+        "data": {
+          "id": "FairyGold",
+          "en": "Will of Midas",
+          "zh": "邁達斯的意志"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "PetEquipmentBoost",
+          "en": "Companion Warfare",
+          "zh": "伴侶戰爭"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "ClanShipDmg",
+          "en": "Aerial Assault",
+          "zh": "空中突襲"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "ManaStealSkillBoost",
+          "en": "Mana Siphon",
+          "zh": "魔力抽取"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "Cloaking",
+          "en": "Cloaking",
+          "zh": "幽暗奇襲"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "MidasSkillBoost",
+          "en": "Midas Ultimate",
+          "zh": "終極米達斯"
+        }
+      }
+    }
+  },
+  "col3": {
+    "row1": {
+      "Knight": {
+        "data": {
+          "id": "HeavyStrikes",
+          "en": "Cleaving Strike",
+          "zh": "劈斬"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "PetBonusBoost",
+          "en": "Ember Arts",
+          "zh": "Ember藝術"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "ClanQTE",
+          "en": "Coordinated Offensive",
+          "zh": "聯合進擊"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "ManaMonster",
+          "en": "Manni Mana",
+          "zh": "魔力瑪尼"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "Backstab",
+          "en": "Backstab",
+          "zh": "背刺"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "MagnumOpus",
+          "en": "Magnum Opus",
+          "zh": "傑作"
+        }
+      }
+    },
+    "row2": {
+      "Knight": {
+        "data": {
+          "id": "BurstSkillMana",
+          "en": "Rejuvenaton",
+          "zh": "恢復活力"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "PetQTE",
+          "en": "Lightning Burst",
+          "zh": "閃電爆破"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "HelperInspiredWeaken",
+          "en": "Searing Light",
+          "zh": "熾熱之光"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "BossTimer",
+          "en": "Dimensional Shift",
+          "zh": "次元轉移"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "PoisonedBlade",
+          "en": "Posion Edge",
+          "zh": "劇毒刀刃"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "LovePotion",
+          "en": "Love Potion",
+          "zh": "愛情藥水"
+        }
+      }
+    },
+    "row3": {
+      "Knight": {
+        "data": {
+          "id": "FairyChance",
+          "en": "Fairy Charm",
+          "zh": "妖精魅力"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "CombatTechniques",
+          "en": "Combat Techniques",
+          "zh": "戰鬥技術"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "ClanShipStun",
+          "en": "Anchoring Shot",
+          "zh": "禁錮射擊"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "CritSkillBoost",
+          "en": "Lightning Strike",
+          "zh": "閃電雷擊"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "MultiMonsters",
+          "en": "Ambush",
+          "zh": "伏擊"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "HandOfMidasMultiCastSkillBoost",
+          "en": "Midas Overflow",
+          "zh": "Midas溢出"
+        }
+      }
+    }
+  },
+  "col4": {
+    "row1": {
+      "Knight": {
+        "data": {
+          "id": "Frenzy",
+          "en": "Barbaric Fury",
+          "zh": "野蠻狂怒"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "TapBoostMultiCastSkill",
+          "en": "Volcanic Eruption",
+          "zh": "火山爆發"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "HelperDmgQTE",
+          "en": "Astral Awakening",
+          "zh": "星體覺醒"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "ForbiddenContract",
+          "en": "Fobidden Contract",
+          "zh": "禁忌秘術"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "GuidedBlade",
+          "en": "Deadly Focus",
+          "zh": "狙殺瞄準"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "AuricShot",
+          "en": "Auric Shot",
+          "zh": "口腔射擊"
+        }
+      }
+    },
+    "row2": {
+      "Knight": {
+        "data": {
+          "id": "BurstDamageMultiCastSkill",
+          "en": "Divine Wrath",
+          "zh": "神的憤怒"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "BossDmgQTE",
+          "en": "Flash Zip",
+          "zh": "閃電瞬移"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "HelperBoostMultiCastSkill",
+          "en": "Command Supermacy",
+          "zh": "命令疑雲"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "ShadowCloneMultiCastSkill",
+          "en": "Phantom Control",
+          "zh": "幻影控制"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "CriticalHit",
+          "en": "Weakpoint Throw",
+          "zh": "弱點投擲"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "KratosSummon",
+          "en": "Sprouting Salts",
+          "zh": "發芽鹽"
+        }
+      }
+    },
+    "row3": {
+      "Knight": {
+        "data": {
+          "id": "TwilightGathering",
+          "en": "Twilight's Gathering",
+          "zh": "暮光之城聚集"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "DualPetBoost",
+          "en": "Summoning Circle",
+          "zh": "召喚圈"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "ClanShipVoltage",
+          "en": "Voltaic Sails",
+          "zh": "Voltaic Sails"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "PuppetMaster",
+          "en": "Nightmare Puppeteer",
+          "zh": "噩夢魁儡"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "LoadedDice",
+          "en": "Loaded Dice",
+          "zh": "加載骰子"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "RoyalContract",
+          "en": "Royal Contract",
+          "zh": "皇家合同"
+        }
+      }
+    }
+  },
+  "col5": {
+    "row1": {
+      "Knight": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": "TerrifyingPact",
+          "en": "Terrifying Pact",
+          "zh": "可怕的契約"
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": "ExplosivesExpert",
+          "en": "Explosives Expert",
+          "zh": "炸藥專家"
+        }
+      }
+    },
+    "row2": {
+      "Knight": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": "StreamOfBladesMultiCastSkill",
+          "en": "Mark of Death",
+          "zh": "死亡標記"
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      }
+    },
+    "row3": {
+      "Knight": {
+        "data": {
+          "id": "TwilightGatheringMultiCastSkill",
+          "en": "Eventide Afterglow",
+          "zh": "晚上餘暉"
+        }
+      },
+      "Summoner": {
+        "data": {
+          "id": "DualPetMultiCast",
+          "en": "Burning Passion",
+          "zh": "燃燒的激情"
+        }
+      },
+      "Warlord": {
+        "data": {
+          "id": "ClanShipVoltageMultiCastSkill",
+          "en": "Galvanized Mast",
+          "zh": "鍍鋅桅杆"
+        }
+      },
+      "Sorcerer": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Rogue": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      },
+      "Alchemist": {
+        "data": {
+          "id": null,
+          "en": null,
+          "zh": null
+        }
+      }
+    }
+  }
+}
